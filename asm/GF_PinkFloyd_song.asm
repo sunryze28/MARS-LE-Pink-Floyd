@@ -1,0 +1,9 @@
+dogs
+money 
+parry
+dogs
+rog
+rog
+quit
+wall
+trial
