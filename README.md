@@ -1,5 +1,5 @@
 # MARS-LE-Pink-Floyd
-## Create a recipe for your very own Pink Floyd song! Packed with references to the band’s best (and goofiest) lyrics!
+Create a recipe for your very own Pink Floyd song! Packed with references to the band’s best (and goofiest) lyrics!
 
 This project was created using the MARS-LE project, a fork of the official MARS MIPS simulator created by John Edelman, Jun Law, and Dominic Dabish. MARS-LE can be found at https://github.com/johnaedelman/MARS-LE and the original MARS can be found at https://dpetersanderson.github.io/
 
